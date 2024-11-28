@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/agriculture/static/css/main.bbed4f33.css",
-    "main.js": "/agriculture/static/js/main.43b1e7a7.js",
+    "main.css": "/agriculture/static/css/main.afa66918.css",
+    "main.js": "/agriculture/static/js/main.340a5506.js",
     "static/js/453.d2210522.chunk.js": "/agriculture/static/js/453.d2210522.chunk.js",
     "static/media/background.png": "/agriculture/static/media/background.681c277b55bc53c128c3.png",
     "index.html": "/agriculture/index.html",
-    "main.bbed4f33.css.map": "/agriculture/static/css/main.bbed4f33.css.map",
-    "main.43b1e7a7.js.map": "/agriculture/static/js/main.43b1e7a7.js.map",
+    "main.afa66918.css.map": "/agriculture/static/css/main.afa66918.css.map",
+    "main.340a5506.js.map": "/agriculture/static/js/main.340a5506.js.map",
     "453.d2210522.chunk.js.map": "/agriculture/static/js/453.d2210522.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbed4f33.css",
-    "static/js/main.43b1e7a7.js"
+    "static/css/main.afa66918.css",
+    "static/js/main.340a5506.js"
   ]
 }
