@@ -12,7 +12,7 @@ const Team = () => {
     <section className="py-16 bg-gray-200" id="team">
       <div className="max-w-6xl mx-auto px-4 text-center">
         <h2 className="text-3xl font-bold mb-8">Meet the Team</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {teamMembers.map((member, index) => (
             <div key={index} className="p-6 bg-white shadow-md rounded-lg">
               <img src={member.image} alt={member.name} className="w-24 h-24 mx-auto rounded-full mb-4" />
