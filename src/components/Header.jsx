@@ -25,8 +25,6 @@ const Header = () => {
     },
   ];
 
-  document.querySelectorAll("div").forEach(section =>  {section.style.border = "1px solid red"});
-
   const openMenu = () => {
     const menu = document.getElementById("menu");
     if (isMenuOpen) {
@@ -55,7 +53,7 @@ const Header = () => {
             <span className="block w-6 h-0.5 bg-white mb-1"></span>
             <span className="block w-6 h-0.5 bg-white mb-1"></span>
             <span className="block w-6 h-0.5 bg-white"></span>
-          </button>
+          </button> 
 
           {/* Navigation Menu */}
           {/* <div id="menu" className="flex "> */}
